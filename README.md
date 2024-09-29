@@ -1,5 +1,5 @@
 # Euroleague-Player-Analysis-with-Linear-Regression
-This project analyzes Euroleague basketball player performance using machine learning techniques. The goal is to predict game scores based on key player statistics and to explore the most significant factors influencing player performance.
+This project analyzes Euroleague basketball player -Nigel Hayes Davies-'s performance using machine learning techniques. The goal is to predict game scores based on key player statistics and to explore the most significant factors influencing player performance.
 
 ## Steps:
 **1- EDA (Exploratary Data Analysis)**
@@ -57,12 +57,12 @@ after that,I wanted to do a prediction with my new data whereas FG% was 0.5 and 
 
 so the model predicted the Game score will be around 11.2
 
-I also checked the dataset and find similar values whereas the FG% was 0.5 and PTS was 14 and here's the GmSc results of them:
+I also checked the dataset and found similar values whereas the FG% was 0.5 and PTS was 14 and here's the GmSc results of them:
 
 ![Screenshot 2024-09-28 at 02 41 01](https://github.com/user-attachments/assets/855048a2-67e1-4c29-9e0a-9948650720b7)
 
-for further prediction testing i choose 3rd data which is far from my predictions against 35th data.
-Even though I choose the further data,model's predictions seemed on point,at least on the MSE and RMSE values:
+for further prediction testing i chose the 3rd data which is far from my predictions against the 35th data.
+Even though I chose the further data,model's predictions seemed on point,at least on the MSE and RMSE values:
 
 ![Screenshot 2024-09-28 at 02 49 31](https://github.com/user-attachments/assets/1faea1a0-f46d-425b-ad3b-26dcf4f4ae2b)
 
